@@ -1,12 +1,6 @@
-[![godechainjs](https://img.shields.io/badge/godechain-js-orange?style=flat-square)](https://godechain.js.org)
-![license](https://img.shields.io/badge/License-Apache%202.0-blue?logo=apache&style=flat-square)
-[![maintainability](https://img.shields.io/codeclimate/maintainability-percentage/godechain-js/apps?logo=code-climate&style=flat-square)](https://codeclimate.com/github/godechain-js/apps)
-
 # @godechain/apps
 
-A Portal into the godechain and Substrate networks. Provides a view and interaction layer from a browser.
-
-This can be accessed as a hosted application via https://godechain.js.org/apps/ or you can access the IPFS hosted version via https://godechain.js.org/apps/ipfs (via hash) or https://dotapps.io (via ipns) to explore any of the supported godechain and Substrate chains.
+A Portal into the godechain  networks. Provides a view and interaction layer from a browser.
 
 If you run one or more IPFS node(s), pinning the UI (which only gets updated on releases) will make it faster for you and others. You can find details about that below in the IPFS chapter below.
 
@@ -40,7 +34,7 @@ In addition the following libraries are also included in the repo. These are to 
 
 Contributions are welcome!
 
-To start off, this repo (along with others in the [@godechain](https://github.com/godechain-js/) family) uses yarn workspaces to organize the code. As such, after cloning dependencies _should_ be installed via `yarn`, not via npm, the latter will result in broken dependencies.
+To start off, this repo (along with others in the [@godechain](https://github.com/godeoffice/GodeChainWallet.git) family) uses yarn workspaces to organize the code. As such, after cloning dependencies _should_ be installed via `yarn`, not via npm, the latter will result in broken dependencies.
 
 To get started -
 
@@ -147,19 +141,4 @@ QmSEgXdQbC1ek9Td1mHy3BRvJpfWHm9zQYegTgAUj1QC4g 924156  react.8f083b49.js
 QmfGBgFe2aqf83Wv21m9k5DH2ew89CDj4tydoxJWdK6NNL 1552    runtime.3d77e510.js
 QmYPa8jcHH7gfopMALr5XTW4i1QM2xgVBe3NeP11y3tErA -       static/
 QmeYBC5EgbccC8NEwXC2rvbd93YiHtTM5xYzqCDohXerDf 859984  vendor.8b793a81.js
-```
-
-## Desktop App
-
-The main advantage of using Desktop App is that it by default stores encrypted accounts on the filesystem instead of browser's local storage.
-Local storage is susceptible to attacks using XSS (Cross-Site Scripting). There's no such risk when with files stored on disk.
-
-The desktop app uses the [Electron](https://www.electronjs.org/) framework. It provides the same features as web app, the only difference
-being different account storage.
-
-The accounts are stored in the following directories:
-* Mac: `~/Library/Application Support/godechain-apps/godechain-accounts`
-* Linux: `~/.config/godechain-apps/godechain-accounts` (or `$XDG_CONFIG_HOME/godechain-apps/godechain-accounts` if `$XDG_CONFIG_HOME` is defined)
-* Windows: `%APPDATA%\godechain-apps\godechain-accounts`
-
-For more details on the desktop app, head over to [Electron package README](https://github.com/godechain-js/apps/blob/master/packages/apps-electron/README.md).
+``
