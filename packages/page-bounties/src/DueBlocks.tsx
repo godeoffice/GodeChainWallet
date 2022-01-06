@@ -1,0 +1,32 @@
+// Copyright 2017-2021 @godechain/app-bounties authors & contributors
+// SPDX-License-Identifier: Apache-2.0
+
+import type BN from 'bn.js';
+
+import React from 'react';
+
+import { BlockToTime } from '@godechain/react-query';
+import { formatNumber } from '@godechain/util';
+
+interface Props {
+  dueBlocks: BN;
+  endBlock: BN;
+  label: string;
+}
+
+function DueBlocks ({ dueBlocks, endBlock, label }: Props): React.ReactElement<Props> {
+  return (
+    <>
+      {dueBlocks.gtn(0) && (
+        <>
+          <BlockToTime value={dueBlocks}>
+            &nbsp;({label})
+          </BlockToTime>
+          #{formatNumber(endBlock)}
+        </>
+      )}
+    </>
+  );
+}
+
+export default React.memo(DueBlocks);
