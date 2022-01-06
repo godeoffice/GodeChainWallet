@@ -1,0 +1,1 @@
+# @godechain/app-accounts
