@@ -1,0 +1,24 @@
+{
+  "bugs": "https://github.com/godechain-js/apps/issues",
+  "homepage": "https://github.com/godechain-js/apps/tree/master/packages/page-addresses#readme",
+  "license": "Apache-2.0",
+  "name": "@godechain/app-addresses",
+  "private": true,
+  "repository": {
+    "directory": "packages/page-addresses",
+    "type": "git",
+    "url": "https://github.com/godechain-js/apps.git"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "version": "0.98.2-88",
+  "dependencies": {
+    "@babel/runtime": "^7.16.3",
+    "@godechain/react-components": "^0.98.2-88",
+    "file-saver": "^2.0.5"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^12.1.2",
+    "testcontainers": "^7.23.2"
+  }
+}
