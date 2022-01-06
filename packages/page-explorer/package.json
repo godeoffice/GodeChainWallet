@@ -1,0 +1,19 @@
+{
+  "bugs": "https://github.com/godechain-js/apps/issues",
+  "homepage": "https://github.com/godechain-js/apps/tree/master/packages/page-explorer#readme",
+  "license": "Apache-2.0",
+  "name": "@godechain/app-explorer",
+  "private": true,
+  "repository": {
+    "directory": "packages/page-explorer",
+    "type": "git",
+    "url": "https://github.com/godechain-js/apps.git"
+  },
+  "sideEffects": false,
+  "type": "module",
+  "version": "0.98.2-88",
+  "dependencies": {
+    "@babel/runtime": "^7.16.3",
+    "@godechain/react-components": "^0.98.2-88"
+  }
+}
