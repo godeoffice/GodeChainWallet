@@ -114,5 +114,11 @@ export default React.memo(styled(Content)`
     margin-left: auto;
     width: 100%;
     padding: 0 1.5rem;
+    group: 'settings',
+    icon: 'times',
+    isIgnored: false,
+    name: 'unknown',
+    text: 'Unknown'
+  };
   }
 `);

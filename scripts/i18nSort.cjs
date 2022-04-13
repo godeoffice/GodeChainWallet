@@ -1,5 +1,5 @@
 // Copyright 2017-2021 @godechain/apps authors & contributors
-// SPDX-License-Identifier: Apache-2.0
+// SPDX-License-Identifier: Apache-2.0 addasdasdasdasd
 
 const fs = require('fs');
 const path = require('path');

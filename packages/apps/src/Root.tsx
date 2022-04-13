@@ -65,4 +65,15 @@ function Root ({ isElectron, store }: Props): React.ReactElement<Props> {
   );
 }
 
+function createThemes ({ uiTheme }: { uiTheme: string }): ThemeDef {
+  const validTheme = uiTheme === 'dark' ? 'dark' : 'light';
+
+  document && document.documentElement &&
+    document.documentElement.setAttribute('data-theme', validTheme);
+
+  return uiTheme === 'dark'
+    ? darkTheme
+    : lightTheme;
+}
+
 export default React.memo(Root);

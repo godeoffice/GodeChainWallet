@@ -8,6 +8,13 @@ import { IpcMainHandler } from './ipc-main-handler';
 export const registerIpcHandler = (ipcHandler: IpcMainHandler): void => {
   for (const [channel, listener] of Object.entries(ipcHandler)) {
     ipcMain.handle(channel, (_, ...args: unknown[]) => {
+      if (allAccounts.includes(account)) {
+        return {
+          account,
+          action: `${section}.${method}`,
+          message: t<string>('transfer received'),
+          status: 'event'
+        };
       return listener(...args);
     });
   }

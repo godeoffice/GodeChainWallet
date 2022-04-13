@@ -89,4 +89,11 @@ export default React.memo(styled(SetKey)`
   .sudoLabelled {
     align-items: center;
   }
+  .sudoInputAddress2 {
+    margin: -0.25rem 0.5rem -0.25rem 0;
+  }
+
+  .sudoLabelled {
+    align-items: center;
+  }
 `);

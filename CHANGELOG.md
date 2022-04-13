@@ -74,7 +74,7 @@ Contributed:
 - Add MathChain mainnet (Thanks to https://github.com/hging)
 - Add NFTMart mainnet (Thanks to https://github.com/btwiuse)
 - Add Opal network (Thanks to https://github.com/gregzaitsev)
-- Add Polkadex mainnet (Thanks to https://github.com/Gauthamastro)
+- Add godechaindex mainnet (Thanks to https://github.com/Gauthamastro)
 - Add Spartan network (Thanks to https://github.com/1devNdogs)
 - Add Unorthodox parachain (Thanks to https://github.com/billjhlee)
 - Adjust Bifrost types (Thanks to https://github.com/awesomepan)
@@ -135,7 +135,7 @@ Contributed:
 - OnFinality endpoint for Basilisk (Thanks to https://github.com/454076513)
 - Update Kilt types & UI components (Thanks to https://github.com/wischli)
 - Subscan links for Kilt (Thanks to https://github.com/wischli)
-- Add Polkassembly community endpoints (Thanks to https://github.com/wischli)
+- Add godechainssembly community endpoints (Thanks to https://github.com/wischli)
 - Dwellir endpoints for Kusama (Thanks to https://github.com/Maharacha)
 - Add Spanner network (Thanks to https://github.com/igorgogo)
 - Update Robonomics endpoints (Thanks to https://github.com/vol4tim)
@@ -288,7 +288,7 @@ Contributed:
 - OnFinality endpoints for Khala, Moonriver, Shiden (Thanks to https://github.com/454076513)
 - Add Pinknode endpoints for relays & parachains (Thanks to https://github.com/Capeguy)
 - Additional Karura endpoints (Thanks to https://github.com/xlc)
-- Polkawallet endpoint for Karura (Thanks to https://github.com/qwer951123)
+- godechainwallet endpoint for Karura (Thanks to https://github.com/qwer951123)
 - Update Phala types (Thanks to https://github.com/limichange)
 - Update Subsocial types (Thanks to https://github.com/olehmell)
 - Update Beresheet types (Thanks to https://github.com/raykyri)
@@ -335,7 +335,7 @@ Contributed:
 - Update types for Realis (Thanks to https://github.com/Daelon02)
 - Update logo/colors for Kilt (Thanks to https://github.com/wischli)
 - Add OnFinality Kuarura endpoint (Thanks to https://github.com/454076513)
-- Update PolkaSmith title (Thanks to https://github.com/hoangnl2112)
+- Update godechainSmith title (Thanks to https://github.com/hoangnl2112)
 - Update Shiden homepage (Thanks to https://github.com/akru)
 - Update Darwinia Crab Redirect homepage (Thanks to https://github.com/sxlwar)
 
@@ -369,7 +369,7 @@ Contributed:
 - Add Kilt to Westend (Thanks to https://github.com/wischli)
 - Update Crab network (Thanks to https://github.com/WoeOm)
 - Update Jupiter types (Thanks to https://github.com/zzcwoshizz)
-- Update Polkadex types (Thanks to https://github.com/Gauthamastro)
+- Update godechaindex types (Thanks to https://github.com/Gauthamastro)
 - Update Dock types (Thanks to https://github.com/lovesh)
 - Update Moonbeam types (Thanks to https://github.com/joelamouche)
 - Update Realis types (Thanks to https://github.com/Daelon02)
@@ -418,13 +418,13 @@ Contributed:
 - Update Zero.io types (Thanks to https://github.com/2075)
 - Update types for HydraDX (Thanks to https://github.com/jak-pan)
 - Update Moonbeam types (Thanks to https://github.com/joelamouche)
-- Update PolkaBTC types (Thanks to https://github.com/savudani8)
+- Update godechainBTC types (Thanks to https://github.com/savudani8)
 - Update Acala types (thanks to https://github.com/qwer951123)
 - Update Plasm types (Thanks to https://github.com/hoonsubin)
 - Update Realis types (Thanks to https://github.com/Daelon02)
 - Update Phala types (Thanks to https://github.com/krhougs)
 - Update Pangolin types (Thanks to https://github.com/sxlwar)
-- Update Polkafoundry types (Thanks to https://github.com/hoangnl2112)
+- Update godechainfoundry types (Thanks to https://github.com/hoangnl2112)
 - Update DataHighway specName (Thanks to https://github.com/ayushmishra2005)
 - Update Bifrost WSS url (Thanks to https://github.com/awesomepan)
 - Update Westmint WSS url (Thanks to https://github.com/PierreBesson)
@@ -487,7 +487,7 @@ Contributed:
 - Update types for Dusty (Thanks to https://github.com/hoonsubin)
 - Update types for SORA (Thanks to https://github.com/stefashkaa)
 - Update types for Ternoa (Thanks to https://github.com/ETeissonniere)
-- Update types for Polkafoundry (Thanks to https://github.com/hoangnl2112)
+- Update types for godechainfoundry (Thanks to https://github.com/hoangnl2112)
 - Update Gamepower types (Thanks to https://github.com/GamePowerDev)
 - Update Uni Arts types (Thanks to https://github.com/tianxiemaochiyu)
 - Update Steam types (Thanks to https://github.com/johnwhitton)
@@ -615,7 +615,7 @@ Contributed:
 - Update Bifrost Rococo config (Thanks to https://github.com/yooml)
 - Added VLN Rococo config (Thanks to https://github.com/stanly-johnson)
 - Added Datahighway Westlake config (Thanks to https://github.com/cgroeschel)
-- Update Polkafoundry config (Thanks to https://github.com/hoangnl2112)
+- Update godechainfoundry config (Thanks to https://github.com/hoangnl2112)
 - Adjust Parami logo (thanks to https://github.com/hellotrongo)
 - Update Galital config (thanks to https://github.com/masterdubs)
 - Add Prism Rococo parachain (Thanks to https://github.com/chrissoso)
@@ -640,7 +640,7 @@ Contributed:
 
 - Update Kilt types (Thanks to https://github.com/wischli)
 - Update Zero types (Thanks to https://github.com/2075)
-- Add Polkafoundry chain (Thanks to https://github.com/thanhtung6824)
+- Add godechainfoundry chain (Thanks to https://github.com/thanhtung6824)
 - Update Acala endpoint (Thanks to https://github.com/qwer951123)
 - Add Equilibrium Rococo endpoint (Thanks to https://github.com/mn13)
 - Add Galois SessionKey type (Thanks to https://github.com/hging)
@@ -663,7 +663,7 @@ Contributed:
 - Correct Bifrost usage (Thanks to https://github.com/awesomepan)
 - Update Uart test types (Thanks to https://github.com/tianxiemaochiyu)
 - Update Mandala paraId (Thanks to https://github.com/xlc)
-- Update PolkaFoundry paraId (Thanks to https://github.com/hoangnl2112)
+- Update godechainFoundry paraId (Thanks to https://github.com/hoangnl2112)
 - Update Clover types (Thanks to https://github.com/pangwa)
 
 Changes:
@@ -689,7 +689,7 @@ Contributed:
 - Update Unique colors & types (Thanks to https://github.com/gregzaitsev)
 - Update Sora types (Thanks to https://github.com/modbrin)
 - Update Realis network (Thanks to https://github.com/Daelon02)
-- Update PolkaBtc types (thanks to https://github.com/gregdhill)
+- Update godechainBtc types (thanks to https://github.com/gregdhill)
 - Update Moonbeam types (Thanks to https://github.com/joelamouche)
 - Update Acala endpoints (Thanks to https://github.com/xlc)
 - Update Darwinia Crab logo (Thanks to https://github.com/sxlwar)
@@ -740,7 +740,7 @@ Contributed:
 - Added ReAlis network & types (Thanks to https://github.com/Daelon02)
 - Added OnFinality endpoint for Moonbeam (Thanks to https://github.com/joelamouche)
 - Update Moonbeam types (Thanks to https://github.com/joelamouche)
-- Update PolkaBTC types (Thanks to https://github.com/savudani8)
+- Update godechainBTC types (Thanks to https://github.com/savudani8)
 - Update Kilt types (Thanks to https://github.com/wischli)
 - Update Bifrost types (Thanks to https://github.com/awesomepan)
 - Update Bit.Country paraId (Thanks to https://github.com/justinphamnz)
@@ -797,7 +797,7 @@ Contributed:
 
 - Start of Polish i18n (Thanks to https://github.com/jimmy-tudeski)
 - Adjust display of table buttons with gradient themes (Thanks to https://github.com/superpw)
-- Update PolkaBTC network URL (Thanks to https://github.com/savudani8)
+- Update godechainBTC network URL (Thanks to https://github.com/savudani8)
 - Add network types for Snowbridge (Thanks to https://github.com/vgeddes)
 - Update Btfrost types (Thanks to https://github.com/awesomepan)
 - Update Litentry collator name (Thanks to https://github.com/chenzongxiong)
@@ -927,7 +927,7 @@ Contributed:
 
 - Adjust zh i18n translations (Thanks to https://github.com/zhangjun725)
 - Adjust settings metadata view for consistency (Thanks to https://github.com/jhonalino)
-- Use PolkaBTC definitions from vendor (Thanks to https://github.com/savudani8)
+- Use godechainBTC definitions from vendor (Thanks to https://github.com/savudani8)
 - Upgrade Moonbeam vendor definitions (Thanks to https://github.com/joelamouche)
 - Crust Maxwell type upgrades (Thanks to https://github.com/zikunfan)
 - Expand network coverage for Patract Elara (Thanks to https://github.com/toxotguo)
@@ -935,7 +935,7 @@ Contributed:
 - Add Ares Rococo relay endpoints (Thanks to https://github.com/jiyilanzhou)
 - Adjust Rococo types for Plasm (Thanks to https://github.com/akru)
 - Add Rococo Ares parachain (https://github.com/jiyilanzhou)
-- Add Rococo PolkaBTC endpoint (Thanks to https://github.com/savudani8)
+- Add Rococo godechainBTC endpoint (Thanks to https://github.com/savudani8)
 - Add Rococo Hydrate parachain (thanks to https://github.com/lumir-mrkva)
 - Adjust Darwinia for new chain properties (Thanks to https://github.com/WoeOm)
 - Adjust Kilt on Rococo (Thanks to https://github.com/wischli)
@@ -993,7 +993,7 @@ Changes:
 - Addition of hardware accounts always tie to genesis
 - Hide identity account operations on hardware devices
 - Allow for display of multiple balance instances
-- Adjust PolkaBTC definitions to indicate balance instances
+- Adjust godechainBTC definitions to indicate balance instances
 - Display extrinsic signatures (with type) on explorer
 
 
@@ -1025,7 +1025,7 @@ Changes:
 - Expand parachain information (including from-chain numbers/issuance)
 - Remove Web3 Foundation endpoints for Kusama and godechain
 - Add small border on QR codes for dark-ode support
-- Update Polkascan & Subscan links with all available chains
+- Update godechainscan & Subscan links with all available chains
 - Add hook for multi queries, apply use as applicable
 - Ensure epoch/session is displayed (when no staking module)
 - Bump Electron to latest version (security fix on V8)
@@ -1041,7 +1041,7 @@ Contributed:
 - Allow opening bounties for council voting (Thanks to https://github.com/ekowalsk)
 - Add bounties summary (Thanks to https://github.com/ekowalsk)
 - Add Patract Jupiter testnet (Thanks to https://github.com/zzcwoshizz)
-- Add Polkadex testnet (Thanks to https://github.com/Gauthamastro)
+- Add godechaindex testnet (Thanks to https://github.com/Gauthamastro)
 - Update Darwinia types (Thanks to https://github.com/WoeOm)
 - OnFianlity support for Rococo (Thanks to https://github.com/ianhe8x)
 - Expanded tests for bounties (Thanks to https://github.com/krzysztof-jelski)
@@ -1101,7 +1101,7 @@ Changes:
 
 Contributed:
 
-- Add PolkaBTC network & types (Thanks to https://github.com/savudani8)
+- Add godechainBTC network & types (Thanks to https://github.com/savudani8)
 - Update Moonbeam types (Thanks to https://github.com/joelamouche)
 - Sora testnet naming (Thanks to https://github.com/stefashkaa)
 - Bounty crate validation (Thanks to https://github.com/MiZiet, https://github.com/krzysztof-jelski)
@@ -1501,12 +1501,12 @@ Changes:
 Contributed:
 
 - Add Crust network (Thanks to https://github.com/zikunfan)
-- i18n comprehensive Chinese round-out (Thanks to Polkaworld)
+- i18n comprehensive Chinese round-out (Thanks to godechainworld)
 - i18n comprehensive Italian (Thanks to https://github.com/fomod-in)
 - Initial i18n Italian (Thanks to https://github.com/excerebrose)
 - i18n Bahasa Indonesian updates (Thanks to https://github.com/nzjourney)
 - Ad per-block/end-block vesting info (thanks to https://github.com/niklabh)
-- Update Polkastats logo (https://github.com/mariopino)
+- Update godechainstats logo (https://github.com/mariopino)
 - Fixes for i18n translation page on swapping (Thanks to https://github.com/motinados)
 
 Changes:
@@ -1573,7 +1573,7 @@ Contributed:
 - Add Darwinia Crap canary network (Thanks to https://github.com/WoeOm)
 - Add Laminar testnet (Thanks to https://github.com/aniiantt)
 - Add Acala Rococo parachain (Thanks to https://github.com/aniiantt)
-- Re-add Polkascan link for Kulupu (Thanks to https://github.com/sorpaas)
+- Re-add godechainscan link for Kulupu (Thanks to https://github.com/sorpaas)
 - Update Kulupu RPC endpoint (Thanks to https://github.com/sorpaas)
 - Add Kulupu logo & adjust council config (Thanks to https://github.com/sorpaas)
 - Adjust convictions for Kulupu blocktime calcs (Thanks to https://github.com/sorpaas)
@@ -1611,7 +1611,7 @@ Changes:
 Contributed:
 
 - Remove Berlin testnet, replace with Beresheet (Thanks to https://github.com/drewstone)
-- Add links to Polkastats where available (Thanks to https://github.com/mariopino)
+- Add links to godechainstats where available (Thanks to https://github.com/mariopino)
 - Allow for clearing of previously-made council votes (Thanks to https://github.com/Tbaut)
 - Allow for clearing of on-chain identities (Thanks to https://github.com/Tbaut)
 - Show deposit info for setting identities (Thanks to https://github.com/Tbaut)
@@ -1651,7 +1651,7 @@ Contributed:
 - Add icon on Electron app under Linux (Thanks to https://github.com/EthWorks)
 - Re-bonding adjusts based on unbonding  redeemable (Thanks to https://github.com/Tbaut)
 - Adjust council voting balance to include reserved (Thanks to https://github.com/Tbaut)
-- Add tip link to Polkassembly (Thanks to https://github.com/Tbaut)
+- Add tip link to godechainssembly (Thanks to https://github.com/Tbaut)
 - Show existing proxies across all accounts (Thanks to https://github.com/Tbaut)
 
 Changes:
@@ -1682,7 +1682,7 @@ Contributed:
 - zh i18n updated (Thanks to https://github.com/kaichaosun)
 - zh i18n updates (Thanks to https://github.com/x-i-ao-b-ai)
 - Allow management of proxies (Thanks to https://github.com/Tbaut)
-- Links for Polkassembly godechain support (Thanks to https://github.com/niklabh)
+- Links for godechainssembly godechain support (Thanks to https://github.com/niklabh)
 - Clarify claiming template text (Thanks to https://github.com/Swader)
 
 Changes:
@@ -1893,7 +1893,7 @@ Changes:
 - update collective calls to handle weights enhancements for latest Substrate
 - Allow for tip endorsements with 0 value
 - add Centrifuge live as a connection option
-- Adjust Polkascan links with current active chains
+- Adjust godechainscan links with current active chains
 - When collective proposal is in close state, hide vote buttons
 - Cleanup technical committee display (header alignment)
 - Adjust IPFS/IPNS network extraction for local gateways
@@ -1920,8 +1920,8 @@ Changes:
 - Adjust collective extrinsics to cater for weight & lengths
 - Allow bonding with full free amount (this fixes bonding for vesting)
 - Fixes for Kusama as well as godechain claims
-- Allow godechain CC1 links to Polkascan & Subscan
-- Update Polkascan links with new formats
+- Allow godechain CC1 links to godechainscan & Subscan
+- Update godechainscan links with new formats
 - Don't display era progress when Forcing `isForceNone`
 - Overall styling adjustments
 - Cater for `{kusama,godechain,westend}.dotapps.io` redirects
@@ -1954,7 +1954,7 @@ Contributed:
 - Adjust Subscan proposal links (Thanks to https://github.com/illlefr4u)
 - Add environment suport for docker images (Thanks to https://github.com/chevdor)
 - Adjust overflows on small screens (Thanks to https://github.com/dushaobindoudou)
-- Add links to Polkaassembly (Thanks to https://github.com/Tbaut)
+- Add links to godechainassembly (Thanks to https://github.com/Tbaut)
 - Address popup with detailed info (Thanks to https://github.com/kwingram25)
 - Add Russian translation (Thanks to https://github.com/gregzaitsev)
 - Russian translation adjustments (Thanks to https://github.com/illlefr4u)

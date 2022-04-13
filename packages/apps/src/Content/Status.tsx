@@ -76,6 +76,10 @@ function Status ({ optionsAll }: Props): React.ReactElement<Props> {
 
   return (
     <StatusDisplay />
+    message: t<string>('update on #{{index}}', {
+      replace: {
+        index
+      }
   );
 }
 
